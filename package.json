@@ -1,0 +1,24 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.4.2",
+    "vite-plugin-string": "^1.0.1"
+  },
+  "dependencies": {
+    "d3-geo": "^3.0.1",
+    "dat": "^13.13.1",
+    "dat.gui": "^0.7.7",
+    "globe.gl": "^2.23.0",
+    "gsap": "^3.7.1",
+    "gui": "^0.9.6",
+    "three": "^0.133.1",
+    "three-conic-polygon-geometry": "^1.4.5",
+    "three-globe": "^2.18.11",
+    "topojson-client": "^3.1.0"
+  }
+}
